@@ -1,0 +1,11 @@
+Please add the Airline\AirlineUAT.zip\SalesOrders\WebContent to the default web site\ Airline for the UI
+
+Please add the Airline\SalesOrderUAT.zip\SalesOrderUAT to the default web site with alias as SalesOrderUAT and localhost with port 8080(becuase ui makes ajax call to localhost:8080/salesordeUAT).
+thanks
+
+I have used Jexus Manager to manager all IIS express settings which can be useful.
+
+Thec connection is made to Azure databse.
+
+Thanks 
+Het Parikh
